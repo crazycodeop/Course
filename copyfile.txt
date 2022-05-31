@@ -1,3 +1,4 @@
 Hello Course
 How are you?
 Press I to enter in insert mode.
+Added 4th line.
